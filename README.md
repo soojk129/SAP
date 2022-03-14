@@ -10,7 +10,7 @@ SAP class
 
 [3일차: SAP System Architecture](https://www.notion.so/3-3-7-a2d37e7fcd8d400c88e1f19078548c7a)
 
-[4일차: SAP's history] (https://www.notion.so/4-3-8-81f6f3280fa24a748dcdaf9831b51eed)
+[4일차: SAP's history](https://www.notion.so/4-3-8-81f6f3280fa24a748dcdaf9831b51eed)
 
 [5일차: Create Transaction Code & Data Type](https://www.notion.so/5-3-10-d8e7ebf572204d09ae7844a6f732d7cf)
 
