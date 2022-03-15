@@ -15,3 +15,5 @@ SAP class
 [5일차: Create Transaction Code & Data Type](https://www.notion.so/5-3-10-d8e7ebf572204d09ae7844a6f732d7cf)
 
 [6일차: DEBUG](https://www.notion.so/6-3-14-15ea894c271540bca084c8fd28cf7da4)
+
+[7일차: Module](https://www.notion.so/7-0835b54e67944cd5aa897de154ac80f7)
