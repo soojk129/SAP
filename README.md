@@ -17,3 +17,6 @@ SAP class
 [6일차: DEBUG](https://www.notion.so/6-3-14-15ea894c271540bca084c8fd28cf7da4)
 
 [7일차: Module](https://www.notion.so/7-0835b54e67944cd5aa897de154ac80f7)
+
+[8일차: function Group & function Module](https://www.notion.so/8-0b9b1282d13b4d319b20ca9dd9690f94)
+
