@@ -21,3 +21,5 @@ SAP class
 [8일차: function Group & function Module](https://www.notion.so/8-0b9b1282d13b4d319b20ca9dd9690f94)
 
 [9일차: class method &Local data Type & MOVE-CORRESPONDING](https://www.notion.so/9-041e633177e349dbb5a15f1ff7da9743)
+
+[10일차: internal table](https://www.notion.so/10-e1fae8debef9429db2714bea757f797c)
