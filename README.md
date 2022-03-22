@@ -24,4 +24,4 @@ SAP class
 
 [10일차: internal table](https://www.notion.so/10-e1fae8debef9429db2714bea757f797c)
 
-[11일차:](https://www.notion.so/11-b0b4f7ff51654040b434196987546d0f)
+[11일차: internal table : CRUD ](https://www.notion.so/11-b0b4f7ff51654040b434196987546d0f)
