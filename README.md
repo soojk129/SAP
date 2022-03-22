@@ -23,3 +23,5 @@ SAP class
 [9일차: class method &Local data Type & MOVE-CORRESPONDING](https://www.notion.so/9-041e633177e349dbb5a15f1ff7da9743)
 
 [10일차: internal table](https://www.notion.so/10-e1fae8debef9429db2714bea757f797c)
+
+[11일차:](https://www.notion.so/11-b0b4f7ff51654040b434196987546d0f)
