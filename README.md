@@ -25,3 +25,7 @@ SAP class
 [10일차: internal table](https://www.notion.so/10-e1fae8debef9429db2714bea757f797c)
 
 [11일차: internal table : CRUD ](https://www.notion.so/11-b0b4f7ff51654040b434196987546d0f)
+
+
+
+[14일차 : Implementing Selection Screens](https://www.notion.so/14-77af146b4b8e48f09aebf6c9411ee85e)
