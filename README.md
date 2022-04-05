@@ -24,8 +24,18 @@ SAP class
 
 [10일차: internal table](https://www.notion.so/10-e1fae8debef9429db2714bea757f797c)
 
-[11일차: internal table : CRUD ](https://www.notion.so/11-b0b4f7ff51654040b434196987546d0f)
+[11일차: internal table : <work area> to <internal table> ](https://www.notion.so/11-b0b4f7ff51654040b434196987546d0f)
 
+[12일차: Internal Operation (CRUD)](https://www.notion.so/SAP-NOTE-12-3-23-965461f3f14c421da9db74f86d7e6fec)
 
+[13일차: Implement ... a SELECT LOOP.](https://www.notion.so/13-3-24-67de8edeb6e644f0b24af8dd4c477f03)
 
-[14일차 : Implementing Selection Screens](https://www.notion.so/14-77af146b4b8e48f09aebf6c9411ee85e)
+[14일차: Describing Other Aspects of Database Access](https://www.notion.so/14-3-28-1497c4b466b8400bb3f4ad648bae9703)
+
+[15일차: Implementing Selection Screens](https://www.notion.so/14-77af146b4b8e48f09aebf6c9411ee85e)
+
+[16일차: ABAP Open SQL](https://www.notion.so/16-3-30-070eff3624f14409b09a05ce18f1f514)
+
+[17일차: Taw10_2](https://www.notion.so/17-4-4-9339d0c08e2a497cb2c157f389d186bc)
+
+[18일차: function of the ABAP Dictionary](https://www.notion.so/18-4-5-1ed66613750d46ffb1efa250617f559f)
