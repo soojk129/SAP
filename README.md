@@ -39,3 +39,5 @@ SAP class
 [17일차: Taw10_2](https://www.notion.so/17-4-4-9339d0c08e2a497cb2c157f389d186bc)
 
 [18일차: function of the ABAP Dictionary](https://www.notion.so/18-4-5-1ed66613750d46ffb1efa250617f559f)
+  
+[19일차:Technical Settings: General Properties](https://www.notion.so/19-4-6-08de65cc637b46538a44854396b1eadc)
