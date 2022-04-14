@@ -48,4 +48,8 @@ SAP class
 
 [22일차: warning message](https://www.notion.so/22-4-12-a8e69e2924fe48adb310c4ffdcac70ed)
   
+[23일차: Text Table](https://www.notion.so/23-4-13-d2f5576eee6b46b0b151f9ef7afa2ebc)
+  
+[24일차: Nested / Deep structure](https://www.notion.so/24-4-14-52f2d293a72e4f15ba87bfbcc49b05ea)
+  
   
