@@ -41,3 +41,9 @@ SAP class
 [18일차: function of the ABAP Dictionary](https://www.notion.so/18-4-5-1ed66613750d46ffb1efa250617f559f)
   
 [19일차:Technical Settings: General Properties](https://www.notion.so/19-4-6-08de65cc637b46538a44854396b1eadc)
+
+[20일차: Input Checks](https://www.notion.so/20-4-7-6df259c2aa0e4070b1d26ca883ee7f5d)
+  
+[21일차: 1:CN](https://www.notion.so/21-4-11-a151c48e57144994929dc5c55aefc4d4)
+  
+  
