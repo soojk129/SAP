@@ -45,5 +45,7 @@ SAP class
 [20일차: Input Checks](https://www.notion.so/20-4-7-6df259c2aa0e4070b1d26ca883ee7f5d)
   
 [21일차: 1:CN](https://www.notion.so/21-4-11-a151c48e57144994929dc5c55aefc4d4)
+
+[22일차: warning message](https://www.notion.so/22-4-12-a8e69e2924fe48adb310c4ffdcac70ed)
   
   
