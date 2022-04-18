@@ -52,4 +52,4 @@ SAP class
   
 [24일차: Nested / Deep structure](https://www.notion.so/24-4-14-52f2d293a72e4f15ba87bfbcc49b05ea)
   
-  
+[25일차 : Data Exange : Screens - ABAP Program ](https://www.notion.so/25-4-18-287016325c864530b1fcdbad1fb5cf15)
