@@ -53,6 +53,29 @@ SAP class
 [24일차: Nested / Deep structure](https://www.notion.so/24-4-14-52f2d293a72e4f15ba87bfbcc49b05ea)
   
 [25일차 : Data Exange : Screens - ABAP Program ](https://www.notion.so/25-4-18-287016325c864530b1fcdbad1fb5cf15)
+
+[26일차 : ](https://www.notion.so/26-4-19-3f566a26f4b64d3a801e7bffbaa25883)
+  
+[27일차 : ](https://www.notion.so/27-4-20-644b672b33ad4510997ec582028e5bae)
+  
+[28일차 : ](https://www.notion.so/28-4-21-bbf03291ac54459993e5caa6b26eb679)
+
+[29일차 : ](https://www.notion.so/29-4-25-a8aca64fcce2457c85eba241b3998bf3)
+
+[30일차 : ](https://www.notion.so/30-4-26-a6da1aeddff847f69980905ef63f7bae)
+  
+[31일차 : ](https://www.notion.so/31-4-27-284b71bac6ea4c75b7c616e67d83f76d)
+  
+[32일차 : ](https://www.notion.so/32-4-28-8871349e0e9b495d9acbc74209683bb7)
+  
+[33일차 : ](https://www.notion.so/33-5-2-25c9fa84f7934f61aeae40d8f67f42a8)
+  
+[34일차 : ](https://www.notion.so/34-5-3-c144647704d44c60a597995bb1400199)
+  
+[35일차 : ](https://www.notion.so/35-5-9-1ca974307f6742bca8ec6df9dc6b0307)
+
   
   
- [29일차 : ](https://www.notion.so/29-4-25-a8aca64fcce2457c85eba241b3998bf3)
+  
+  
+  
