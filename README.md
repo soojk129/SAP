@@ -54,9 +54,9 @@ SAP class
   
 [25일차 : Data Exange : Screens - ABAP Program ](https://www.notion.so/25-4-18-287016325c864530b1fcdbad1fb5cf15)
 
-[26일차 : ](https://www.notion.so/26-4-19-3f566a26f4b64d3a801e7bffbaa25883)
+[26일차 : Screens](https://www.notion.so/26-4-19-3f566a26f4b64d3a801e7bffbaa25883)
   
-[27일차 : ](https://www.notion.so/27-4-20-644b672b33ad4510997ec582028e5bae)
+[27일차 : Screens](https://www.notion.so/27-4-20-644b672b33ad4510997ec582028e5bae)
   
 [28일차 : ](https://www.notion.so/28-4-21-bbf03291ac54459993e5caa6b26eb679)
 
