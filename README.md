@@ -74,8 +74,22 @@ SAP class
   
 [35일차 : ](https://www.notion.so/35-5-9-1ca974307f6742bca8ec6df9dc6b0307)
 
+[36일차 : ](https://www.notion.so/36-5-10-b81adc6f95fa498182a1d8ae252e5694)
+
+[36일차 : ](https://www.notion.so/36-5-10-b81adc6f95fa498182a1d8ae252e5694)
+
+[37일차 : ](https://www.notion.so/37-5-11-368e7ec83e9a4e15add1e65c2d0d000c)
+
+[38일차 : ](https://www.notion.so/38-5-12-3b17d483788e4298a694ddb2f3cb6bc2)
   
-  
-  
-  
+[39일차 : ](https://www.notion.so/39-5-16-329312be2f304575a8cd30b226cfcff0)
+
+[40일차 : ](https://www.notion.so/40-5-17-61ec380359294b6fa03a231d7237e16f)
+
+[41일차 : ](https://www.notion.so/41-5-18-c64c48a78ef64647aaacbb9d08e44122)
+
+[42일차 : EX3_01-ALV_EX_ICON](https://www.notion.so/42-5-19-0f5f390f5984423e8cc5813b67edd5cc)
+
+[43일차 : ](https://www.notion.so/43-5-23-ba17a74fb75c47558512f81172858cac)
+
   
