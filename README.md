@@ -90,6 +90,6 @@ SAP class
 
 [42일차 : EX3_01-ALV_EX_ICON](https://www.notion.so/42-5-19-0f5f390f5984423e8cc5813b67edd5cc)
 
-[43일차 : ](https://www.notion.so/43-5-23-ba17a74fb75c47558512f81172858cac)
+[43일차 :  ](https://www.notion.so/43-5-23-ba17a74fb75c47558512f81172858cac)
 
   
