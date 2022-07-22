@@ -8,7 +8,7 @@ SAP class
 
 [2일차: How to use Command Field](https://www.notion.so/2-3-3-d8e0e7691cba4ae79479f68ab61e9785)
 
-[3일차: SAP System Architecture](https://www.notion.so/3-3-7-a2d37e7fcd8d400c88e1f19078548c7a)
+[3일차: SAP System Architecture](https://www.notion.so/3-3-7-a2d37e7fcd8d400c88e1f19078548c7a) 
 
 [4일차: SAP's history](https://www.notion.so/4-3-8-81f6f3280fa24a748dcdaf9831b51eed)
 
